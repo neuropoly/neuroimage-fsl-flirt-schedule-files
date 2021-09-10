@@ -1,6 +1,6 @@
 # Schedule files to use with FSL FLIRT
 
-The file `schedule_TxTy.sch` is the schedule file referenced by the following passage from [Duval, Tanguy et al. “In vivo mapping of human spinal cord microstructure at 300mT/m.”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4562035/#idm139707147392480title):
+The file [`schedule_TxTy.sch`](https://github.com/neuropoly/neuroimage-fsl-flirt-schedule-files/blob/master/schedule_TxTy.sch) is the schedule file referenced by the following passage from [Duval, Tanguy et al. “In vivo mapping of human spinal cord microstructure at 300mT/m.”](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4562035/#idm139707147392480title):
 
 > ## 2. Preprocessing
 > 
